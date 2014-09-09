@@ -1,0 +1,4 @@
+C:\Users\eahscs\Desktop\Chapter 2\Carpet\bin\Debug\Carpet.exe
+C:\Users\eahscs\Desktop\Chapter 2\Carpet\bin\Debug\Carpet.pdb
+C:\Users\eahscs\Desktop\Chapter 2\Carpet\obj\x86\Debug\Carpet.exe
+C:\Users\eahscs\Desktop\Chapter 2\Carpet\obj\x86\Debug\Carpet.pdb

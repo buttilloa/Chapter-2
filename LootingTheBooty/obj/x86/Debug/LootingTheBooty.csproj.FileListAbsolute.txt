@@ -1,0 +1,4 @@
+C:\Users\eahscs\Desktop\Chapter 2\LootingTheBooty\bin\Debug\LootingTheBooty.exe
+C:\Users\eahscs\Desktop\Chapter 2\LootingTheBooty\bin\Debug\LootingTheBooty.pdb
+C:\Users\eahscs\Desktop\Chapter 2\LootingTheBooty\obj\x86\Debug\LootingTheBooty.exe
+C:\Users\eahscs\Desktop\Chapter 2\LootingTheBooty\obj\x86\Debug\LootingTheBooty.pdb
