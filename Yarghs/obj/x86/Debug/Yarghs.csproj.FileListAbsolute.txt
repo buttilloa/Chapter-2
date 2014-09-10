@@ -2,3 +2,7 @@ C:\Users\eahscs\Desktop\Chapter 2\Yarghs\bin\Debug\Yarghs.exe
 C:\Users\eahscs\Desktop\Chapter 2\Yarghs\bin\Debug\Yarghs.pdb
 C:\Users\eahscs\Desktop\Chapter 2\Yarghs\obj\x86\Debug\Yarghs.exe
 C:\Users\eahscs\Desktop\Chapter 2\Yarghs\obj\x86\Debug\Yarghs.pdb
+C:\Users\eahscs\Desktop\Chapter-2\Yarghs\bin\Debug\Yarghs.exe
+C:\Users\eahscs\Desktop\Chapter-2\Yarghs\bin\Debug\Yarghs.pdb
+C:\Users\eahscs\Desktop\Chapter-2\Yarghs\obj\x86\Debug\Yarghs.exe
+C:\Users\eahscs\Desktop\Chapter-2\Yarghs\obj\x86\Debug\Yarghs.pdb

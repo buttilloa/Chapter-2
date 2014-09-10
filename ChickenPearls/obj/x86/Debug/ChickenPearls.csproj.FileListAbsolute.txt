@@ -2,3 +2,7 @@ C:\Users\eahscs\Desktop\Chapter 2\ChickenPearls\bin\Debug\ChickenPearls.exe
 C:\Users\eahscs\Desktop\Chapter 2\ChickenPearls\bin\Debug\ChickenPearls.pdb
 C:\Users\eahscs\Desktop\Chapter 2\ChickenPearls\obj\x86\Debug\ChickenPearls.exe
 C:\Users\eahscs\Desktop\Chapter 2\ChickenPearls\obj\x86\Debug\ChickenPearls.pdb
+C:\Users\eahscs\Desktop\Chapter-2\ChickenPearls\bin\Debug\ChickenPearls.exe
+C:\Users\eahscs\Desktop\Chapter-2\ChickenPearls\bin\Debug\ChickenPearls.pdb
+C:\Users\eahscs\Desktop\Chapter-2\ChickenPearls\obj\x86\Debug\ChickenPearls.exe
+C:\Users\eahscs\Desktop\Chapter-2\ChickenPearls\obj\x86\Debug\ChickenPearls.pdb
